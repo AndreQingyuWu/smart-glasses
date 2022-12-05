@@ -1,0 +1,10 @@
+..\nrf_obj\rtt_syscalls_keil.o: ..\nRF_Library\src\RTT_Syscalls_KEIL.c
+..\nrf_obj\rtt_syscalls_keil.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\nrf_obj\rtt_syscalls_keil.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\nrf_obj\rtt_syscalls_keil.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\nrf_obj\rtt_syscalls_keil.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\rt_sys.h
+..\nrf_obj\rtt_syscalls_keil.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\rt_misc.h
+..\nrf_obj\rtt_syscalls_keil.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\nrf_obj\rtt_syscalls_keil.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\nrf_obj\rtt_syscalls_keil.o: ..\nRF_Library\inc\SEGGER_RTT.h
+..\nrf_obj\rtt_syscalls_keil.o: ..\nRF_Library\inc\SEGGER_RTT_Conf.h

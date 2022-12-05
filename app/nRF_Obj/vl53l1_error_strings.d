@@ -1,0 +1,17 @@
+..\nrf_obj\vl53l1_error_strings.o: ..\nRF_APP\src\tof\vl53l1_error_strings.c
+..\nrf_obj\vl53l1_error_strings.o: ..\nRF_APP\inc\tof\vl53l1_error_codes.h
+..\nrf_obj\vl53l1_error_strings.o: ..\nRF_APP\inc\tof\vl53l1_types.h
+..\nrf_obj\vl53l1_error_strings.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\nrf_obj\vl53l1_error_strings.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\nrf_obj\vl53l1_error_strings.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\nrf_obj\vl53l1_error_strings.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\nrf_obj\vl53l1_error_strings.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\nrf_obj\vl53l1_error_strings.o: ..\nRF_APP\inc\tof\vl53l1_error_strings.h
+..\nrf_obj\vl53l1_error_strings.o: ..\nRF_APP\inc\tof\vl53l1_platform_log.h
+..\nrf_obj\vl53l1_error_strings.o: ..\nRF_APP\inc\tof\vl53l1_ll_def.h
+..\nrf_obj\vl53l1_error_strings.o: ..\nRF_APP\inc\tof\vl53l1_ll_device.h
+..\nrf_obj\vl53l1_error_strings.o: ..\nRF_APP\inc\tof\vl53l1_platform_user_config.h
+..\nrf_obj\vl53l1_error_strings.o: ..\nRF_APP\inc\tof\vl53l1_register_structs.h
+..\nrf_obj\vl53l1_error_strings.o: ..\nRF_APP\inc\tof\vl53l1_register_map.h
+..\nrf_obj\vl53l1_error_strings.o: ..\nRF_APP\inc\tof\vl53l1_platform_user_defines.h
+..\nrf_obj\vl53l1_error_strings.o: ..\nRF_APP\inc\tof\vl53l1_error_exceptions.h

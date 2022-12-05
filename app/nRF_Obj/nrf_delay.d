@@ -1,0 +1,16 @@
+..\nrf_obj\nrf_delay.o: ..\nRF_Driver\src\nrf_delay.c
+..\nrf_obj\nrf_delay.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\nrf_obj\nrf_delay.o: ..\nRF_Device\inc\compiler_abstraction.h
+..\nrf_obj\nrf_delay.o: ..\nRF_Device\inc\nrf.h
+..\nrf_obj\nrf_delay.o: ..\nRF_Device\inc\nrf52.h
+..\nrf_obj\nrf_delay.o: ..\..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Include\core_cm4.h
+..\nrf_obj\nrf_delay.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\nrf_obj\nrf_delay.o: ..\..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Include\cmsis_version.h
+..\nrf_obj\nrf_delay.o: ..\..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Include\cmsis_compiler.h
+..\nrf_obj\nrf_delay.o: ..\..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Include\cmsis_armcc.h
+..\nrf_obj\nrf_delay.o: ..\..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Include\mpu_armv7.h
+..\nrf_obj\nrf_delay.o: ..\nRF_Device\inc\system_nrf52.h
+..\nrf_obj\nrf_delay.o: ..\nRF_Device\inc\nrf52_bitfields.h
+..\nrf_obj\nrf_delay.o: ..\nRF_Device\inc\nrf51_to_nrf52.h
+..\nrf_obj\nrf_delay.o: ..\nRF_Device\inc\nrf52_name_change.h
+..\nrf_obj\nrf_delay.o: ..\nRF_Driver\inc\nrf_delay.h

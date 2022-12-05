@@ -1,0 +1,8 @@
+nrfutil.exe           settings  generate  --family   NRF52  --application  nrf52832_xxaa_s132.hex  --application-version 0  --bootloader-version  0  --bl-settings-version 1 bootloader_settings.hex
+mergehex.exe    --merge  boot.hex   s132_nrf52_2.0.0_softdevice.hex  --output    firwarm_1.hex
+mergehex.exe --merge  firwarm_1.hex   nrf52832_xxaa_s132.hex   --output  firwarm_2.hex
+
+
+
+https://blog.csdn.net/weixin_44485518/article/details/86671311
+

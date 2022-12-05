@@ -1,0 +1,16 @@
+.\nrf_delay.o: ..\nRF_Driver\src\nrf_delay.c
+.\nrf_delay.o: E:\keil\ARM\ARMCC\bin\..\include\stdio.h
+.\nrf_delay.o: ..\nRF_Device\inc\compiler_abstraction.h
+.\nrf_delay.o: E:\keil\ARM\Device\Nordic\nRF52832\Include\nrf.h
+.\nrf_delay.o: E:\keil\ARM\Device\Nordic\nRF52832\Include\nrf52.h
+.\nrf_delay.o: E:\keil\ARM\CMSIS\Include\core_cm4.h
+.\nrf_delay.o: E:\keil\ARM\ARMCC\bin\..\include\stdint.h
+.\nrf_delay.o: E:\keil\ARM\CMSIS\Include\core_cmInstr.h
+.\nrf_delay.o: E:\keil\ARM\CMSIS\Include\core_cmFunc.h
+.\nrf_delay.o: E:\keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\nrf_delay.o: E:\keil\ARM\Device\Nordic\nRF52832\Include\system_nrf52.h
+.\nrf_delay.o: E:\keil\ARM\Device\Nordic\nRF52832\Include\nrf52_bitfields.h
+.\nrf_delay.o: E:\keil\ARM\Device\Nordic\nRF52832\Include\nrf51_to_nrf52.h
+.\nrf_delay.o: E:\keil\ARM\Device\Nordic\nRF52832\Include\nrf52_name_change.h
+.\nrf_delay.o: E:\keil\ARM\Device\Nordic\nRF52832\Include\compiler_abstraction.h
+.\nrf_delay.o: ..\nRF_Driver\inc\nrf_delay.h

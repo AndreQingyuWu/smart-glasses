@@ -1,0 +1,15 @@
+.\system_nrf52.o: ..\nRF_Device\src\system_nrf52.c
+.\system_nrf52.o: E:\keil\ARM\ARMCC\bin\..\include\stdint.h
+.\system_nrf52.o: E:\keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\system_nrf52.o: E:\keil\ARM\Device\Nordic\nRF52832\Include\nrf.h
+.\system_nrf52.o: E:\keil\ARM\Device\Nordic\nRF52832\Include\nrf52.h
+.\system_nrf52.o: E:\keil\ARM\CMSIS\Include\core_cm4.h
+.\system_nrf52.o: E:\keil\ARM\CMSIS\Include\core_cmInstr.h
+.\system_nrf52.o: E:\keil\ARM\CMSIS\Include\core_cmFunc.h
+.\system_nrf52.o: E:\keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\system_nrf52.o: E:\keil\ARM\Device\Nordic\nRF52832\Include\system_nrf52.h
+.\system_nrf52.o: E:\keil\ARM\Device\Nordic\nRF52832\Include\nrf52_bitfields.h
+.\system_nrf52.o: E:\keil\ARM\Device\Nordic\nRF52832\Include\nrf51_to_nrf52.h
+.\system_nrf52.o: E:\keil\ARM\Device\Nordic\nRF52832\Include\nrf52_name_change.h
+.\system_nrf52.o: E:\keil\ARM\Device\Nordic\nRF52832\Include\compiler_abstraction.h
+.\system_nrf52.o: ..\nRF_Device\inc\system_nrf52.h
